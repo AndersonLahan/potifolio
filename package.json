@@ -1,7 +1,7 @@
 {
   "name": "dev_portfolio",
   "version": "0.1.0",
-  "homepage":"https://andersonlahan.github.io/dev_portfolio",
+  "homepage":"https://andersonlahan.github.io/potifolio",
   "private": false,
   "dependencies": {
     "react": "^16.6.0",
